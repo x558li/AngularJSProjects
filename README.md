@@ -1,2 +1,1 @@
-# AngularJSProjects
-AngularJS exercises 
+
